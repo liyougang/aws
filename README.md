@@ -1,0 +1,2 @@
+# aws
+aws build project
